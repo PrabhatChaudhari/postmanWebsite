@@ -24,14 +24,7 @@ body{
     margin-bottom: 70px;
 }
 
-.radiobtn{
-    margin-right: 10px;
-    accent-color: #0fa ;
-}
 
-.btn{
-    color: #0fa !important;
-}
 .col{
     float: left !important;
 }
@@ -43,6 +36,14 @@ body{
 
 
 /*styling of button*/
+.radiobtn{
+    margin-right: 10px;
+    accent-color: #0fa ;
+}
+
+.btn{
+    color: #0fa !important;
+}
 .butn{
     color: #0fa;
     background: none;
@@ -62,6 +63,7 @@ body{
     border-color: rgba(171, 9, 0, 0.701);
 }
 
+/*textboxes and placeholders*/
 .txtbox{
     border-color: #0fa;
     border-width:thin;
